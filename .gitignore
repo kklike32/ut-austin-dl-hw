@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# Data
+classification_data/
+classification_data.zip
+
+# Logs
+logs/
+
+# OS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
